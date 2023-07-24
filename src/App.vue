@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>Stage ENV</h1>
+  <h1>Stage ENV: KEuller</h1>
 </template>
 
 <style scoped>
